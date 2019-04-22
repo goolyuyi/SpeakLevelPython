@@ -16,3 +16,8 @@ print("hello")
   
 > “Knowledge of languages is the doorway to wisdom.”   
 > ‒ Roger Bacon
+
+已完成的章节:
+exception
+package
+module
